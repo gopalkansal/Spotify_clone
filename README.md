@@ -1,4 +1,4 @@
-# Spotify-clone
+# Spotify_clone
 A clone of Spotify is developed using HTML, CSS and JavaScript. 
 The website is completely responsive which can run smoothly on any type of cell phones. 
 It is a very well-structured website with beautiful User Interface.
