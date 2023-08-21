@@ -1,0 +1,43 @@
+body{
+    flex-wrap: wrap;
+} 
+/* #navbar{
+    padding-left: 10px;
+} */
+#navbar::before{
+    /* content:"";
+    background-color: black;
+    width: 100vw;
+    position: absolute;
+    z-index:-1;
+    opacity: 0.8; */
+    height: 100px;
+}
+.nav-content{
+    /* color:white; */
+    /* padding:5px 10px; */
+    margin:0px 15px;
+}
+.nav-content1{
+    /* color:white; */
+    /* padding: 5px 2px; */
+    margin: 0px 1px;
+    /* font-size: 1.3rem; */
+}
+.login{
+    /* border: 1px solid red; */
+    display: grid;
+    grid-template-columns: 60px 40px auto;
+    align-content: center;
+    position:relative;
+    padding-left: 46px;
+}
+.login input{
+    margin-bottom: 15px;
+}
+.login a{
+    margin-top: 10px;
+}
+
+
+
